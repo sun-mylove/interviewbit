@@ -12,7 +12,7 @@ class Solution:
         while i <= j:
             if A[i] != A[j]:
                 return False
-            
+
             i += 1
             j -= 1
 
